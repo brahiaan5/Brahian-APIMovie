@@ -23,7 +23,7 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="MoviesMapper\" />
+    <Folder Include="Mapper\" />
     <Folder Include="Repository\IRepository\" />
   </ItemGroup>
 
